@@ -1,3 +1,7 @@
+I copied the project here just for my personal interest that eager to learn more about operating systems. I found that the MIT course 6.S081 (course web : https://pdos.csail.mit.edu/6.S081/2020/schedule.html) is a really inspiring one and the project can lead everyone to the world of operating system. So in this repo I am gonna follow the step of the course and hopefully can finish all the labs.
+
+Below is the origin readme file.
+
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern RISC-V multiprocessor using ANSI C.
